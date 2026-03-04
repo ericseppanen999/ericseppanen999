@@ -19,4 +19,9 @@ Building data and product tools.
 - Python / SQL / Spark / Databricks / Docker / React
 - Current focus: building data infrastructure
 
+## Contact
+- Website: [Link](https://www.ericseppanen.com)
+- LinkedIn: [Link](https://www.linkedin.com/in/eric-seppanen) 
+- Email: ets4@sfu.ca
+
 📌 Pinned projects below.
