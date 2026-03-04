@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ericseppanen999/ericseppanen999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Eric Tomas Seppanen
+
+Building data and product tools.
+
+- Python / SQL / Spark / Databricks / Docker / React
+- Current focus: building data infrastructure
+
+📌 Pinned projects below.
